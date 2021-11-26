@@ -1,0 +1,42 @@
+.jumbotron{
+	padding-top: 70px;
+	background-color: #e0f7ff;
+}
+
+#education{
+	background-color: #e0f7ff;
+	padding-bottom: 70px;
+}
+
+
+#gallery{
+	background-color: #ffffff;
+}
+
+footer a{
+	text-decoration: none;
+	color: white;
+}
+
+footer{
+	padding-bottom: 20px;
+}
+
+section{
+	padding-top: 70px;
+}
+
+#about .row{
+	margin-bottom: 70px;
+}
+
+.table{
+	width: 	60%;
+	/*position: 	relative;
+	left: 150px;
+	list-style-type: none;*/
+}
+
+#contact{
+	background-color:  #ffffff;
+}
